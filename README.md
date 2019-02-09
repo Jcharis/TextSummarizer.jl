@@ -6,11 +6,13 @@
 + To summarize documents and text using basic summarization technique(extractive summarization)
 
 #### Usage
-`text_summarizer(AbstractString::your_text)`
-+ example
-`doc = """ ...."""`
-+ usage
+``` julia 
+text_summarizer(AbstractString::your_text)
+# example
+doc = """ ...."""
+
 `text_summarizer(docx)`
+```
 
 
 
