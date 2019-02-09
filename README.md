@@ -9,6 +9,7 @@
 `text_summarizer(AbstractString::your_text)`
 + example
 `doc = """ ...."""`
++ usage
 `text_summarizer(docx)`
 
 
